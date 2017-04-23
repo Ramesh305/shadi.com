@@ -1,0 +1,40 @@
+/* CSS Document */
+.navbar navbar-default
+{
+background-color:#FFFFCC;
+}
+#slogan_img
+{
+height:130px;
+width:150px;
+}
+
+
+#slogan
+{
+color:#FF0000;
+font-size:36px;
+font-family:"Lucida Console";
+margin-left:40px;
+}
+#helpsection
+{
+text-align:right;
+}
+#help
+{
+height:90px;
+width:180px;
+margin-top:10px;
+
+}
+#simplifying
+{
+color:#FF0000;
+}
+#matchmaking
+{
+color:#006600;
+
+}
+
